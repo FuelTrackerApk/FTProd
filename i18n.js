@@ -2,6 +2,12 @@
 (() => {
  'use strict';
  const dictionary={
+ "Jak dodać Fuel Tracker do ekranu początkowego": "How to add Fuel Tracker to the Home Screen",
+ "W Safari stuknij przycisk udostępniania (kwadrat ze strzałką w górę). Jeśli go nie widzisz, otwórz menu strony i wybierz „Udostępnij”.": "In Safari, tap the Share button (the square with an upward arrow). If you do not see it, open the page menu and choose “Share”.",
+ "Przewiń listę i wybierz „Dodaj do ekranu początkowego”. Jeśli tej opcji brakuje, stuknij „Edytuj czynności” na dole listy i dodaj ją.": "Scroll down and choose “Add to Home Screen”. If it is missing, tap “Edit Actions” at the bottom of the list and add it.",
+ "Jeśli widzisz „Otwórz jako aplikację”, włącz tę opcję. Stuknij „Dodaj”.": "If you see “Open as Web App”, turn it on. Tap “Add”.",
+ "Na iPhonie przycisk skrótu pokazuje instrukcję dodania aplikacji w Safari.": "On iPhone, the shortcut button shows how to add the app in Safari.",
+ "Otwórz menu przeglądarki i wybierz Zainstaluj aplikację, Dodaj do ekranu głównego lub Utwórz skrót.": "Open the browser menu and select Install app, Add to Home screen, or Create shortcut.",
  "Utwórz skrót na pulpicie": "Create desktop shortcut",
  "Na iPhonie w Safari wybierz Udostępnij → Dodaj do ekranu początkowego. Na Androidzie lub komputerze otwórz menu przeglądarki i wybierz Zainstaluj aplikację, Dodaj do ekranu głównego lub Utwórz skrót.": "On iPhone, in Safari, select Share → Add to Home Screen. On Android or desktop, open the browser menu and select Install app, Add to Home screen, or Create shortcut.",
  "Aplikacja jest już otwarta ze skrótu.": "The app is already open from a shortcut.",
